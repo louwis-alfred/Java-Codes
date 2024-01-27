@@ -1,6 +1,6 @@
 package ForPract;
 
-public class pract_print {
+public class methods {
 
 	public static void main(String[] args) {
 		
